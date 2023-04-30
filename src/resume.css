@@ -1,0 +1,20 @@
+.full{
+    margin: 0;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+
+.left{
+    position: initial;
+    background-color: rgb(204, 153, 255);
+    padding: 20px;
+}
+
+.right{
+    position: initial;
+    background-color: rgb(229, 204, 255);
+    padding: 20px;
+}
+
+
+
